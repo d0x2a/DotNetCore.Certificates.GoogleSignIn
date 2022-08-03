@@ -4,6 +4,11 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <PackageId>DotNetCore.Certificates.GoogleSignIn</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Vadim Novitskii</Authors>
+        <Company>d0x2a labs</Company>
+        <PackageTags>google googlesignin certificates validation</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>

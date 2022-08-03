@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src", "src\DotNetCore.Certificates.GoogleSignIn.csproj", "{0D874EDD-5C93-4DBA-A177-3E34F0C92E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\DotNetCore.Certificates.GoogleSignIn.Tests.csproj", "{294F81B5-96B9-4B03-AA61-A33AA0E3C53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D874EDD-5C93-4DBA-A177-3E34F0C92E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D874EDD-5C93-4DBA-A177-3E34F0C92E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D874EDD-5C93-4DBA-A177-3E34F0C92E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D874EDD-5C93-4DBA-A177-3E34F0C92E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294F81B5-96B9-4B03-AA61-A33AA0E3C53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294F81B5-96B9-4B03-AA61-A33AA0E3C53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294F81B5-96B9-4B03-AA61-A33AA0E3C53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294F81B5-96B9-4B03-AA61-A33AA0E3C53F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
